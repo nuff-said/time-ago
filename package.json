@@ -1,0 +1,30 @@
+{
+  "name": "@nuff-said/time-ago",
+  "version": "1.0.0",
+  "description": "A library to format the difference between dates",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuff-said/time-ago.git"
+  },
+  "keywords": [
+    "time-ago"
+  ],
+  "author": "Siddharth Shyniben <siddharth.muscat@gmail.com> (https://siddu.tech/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nuff-said/time-ago/issues"
+  },
+  "homepage": "https://github.com/nuff-said/time-ago#readme",
+  "devDependencies": {
+    "@size-limit/preset-small-lib": "^11.1.2",
+    "size-limit": "^11.1.2"
+  },
+  "size-limit": [
+    {
+      "path": "index.js",
+      "limit": "167B"
+    }
+  ]
+}
