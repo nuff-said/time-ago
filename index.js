@@ -1,0 +1,1 @@
+export default(A,B=[60,60,24,7,365/7/12,12],C=0,D=(new Date-A)/1e3)=>{while(B[C]<D&&C<6)D/=B[C++];(D=~~D)>((C*=2)?1:9)&&C++;return C?D+` ${"second0minute0hour0day0week0month0year".split("0")[~~(C/2)]+(D>1?"s":"")} ago`: "just now"}
