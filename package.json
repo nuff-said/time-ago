@@ -4,6 +4,7 @@
   "description": "A library to format the difference between dates",
   "main": "index.js",
   "scripts": {},
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nuff-said/time-ago.git"
