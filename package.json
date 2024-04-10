@@ -1,6 +1,6 @@
 {
   "name": "@nuff-said/time-ago",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to format the difference between dates",
   "main": "index.js",
   "scripts": {},
