@@ -17,15 +17,5 @@
   "bugs": {
     "url": "https://github.com/nuff-said/time-ago/issues"
   },
-  "homepage": "https://github.com/nuff-said/time-ago#readme",
-  "devDependencies": {
-    "@size-limit/preset-small-lib": "^11.1.2",
-    "size-limit": "^11.1.2"
-  },
-  "size-limit": [
-    {
-      "path": "index.js",
-      "limit": "167B"
-    }
-  ]
+  "homepage": "https://github.com/nuff-said/time-ago#readme"
 }

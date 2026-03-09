@@ -1,6 +1,6 @@
 # [@nuff-said/time-ago][repo-npm]
 
-A compact library to check how far back a date was, in **167 bytes** minzipped and brotlied.
+A compact library to check how far back a date was, in **229 bytes** before any compression.
 
 ```javascript
 import timeAgo from '@nuff-said/time-ago'
